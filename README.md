@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 -Stats: 
 <div>
-<a href="https://github.com/JohnCPG">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCPG&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnCPG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JohnPCG">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPCG&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnPCG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 - Contacts (on the future): 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/JohnCPG/JohnCPG/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JohnCPG/JohnPCG/blob/output/github-contribution-grid-snake.svg)
