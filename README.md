@@ -24,3 +24,6 @@ My name is John and my nickname is "JohnCPG"
 </div>
 
 ![Snake animation](https://github.com/JohnPCG/JohnPCG/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align = "center"> This project is under construction!!!<h1>
+  
