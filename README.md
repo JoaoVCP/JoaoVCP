@@ -1,8 +1,6 @@
 Hello! Welcome to my Github profile 👋
 My name is John and my nickname is "JohnCPG"
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improve my skills with programming languages and databases.
 - 🌱 I’m currently learning:
 
