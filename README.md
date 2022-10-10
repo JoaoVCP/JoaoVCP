@@ -9,8 +9,8 @@ My name is John and my nickname is "JohnPCG"
 -Stats: 
 <div>
 <a href="https://github.com/JohnPCG">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPCG&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnPCG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVCP&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVCP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 - Contacts (on the future): 
