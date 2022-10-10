@@ -1,5 +1,5 @@
 Hello! Welcome to my Github profile 👋
-My name is John and my nickname is "JohnPCG"
+My name is John and my nickname is "JoaoVCP"
 
 - 🔭 I’m currently working on improve my skills with programming languages and databases.
 - 🌱 I’m currently learning:
