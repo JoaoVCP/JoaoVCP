@@ -8,7 +8,7 @@ My name is John and my nickname is "JoaoVCP"
 
 -Stats: 
 <div>
-<a href="https://github.com/JohnPCG">
+<a href="https://github.com/JoaoVCP">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVCP&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVCP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
