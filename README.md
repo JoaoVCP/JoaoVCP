@@ -23,6 +23,8 @@ My name is John and my nickname is "JoaoVCP"
 <a href="https://www.linkedin.com/in/joão-333871236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>
+
+# Contador de visitas
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/JoaoVCP/count.svg" /></p>
 
 <h1 align = "center"> This project is under construction!!!<h1>
