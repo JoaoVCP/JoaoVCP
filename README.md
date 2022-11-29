@@ -24,8 +24,8 @@ My name is John and my nickname is "JoaoVCP"
 </div>
 <br/>
 
-# Contador de visitas
+<h1 align = "center"># Contador de visitas</h1>
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/JoaoVCP/count.svg" /></p>
 
-<h1 align = "center"> This project is under construction!!!<h1>
+<h1 align = "center"> This project is under construction!!!</h1>
   
